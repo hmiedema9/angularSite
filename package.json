@@ -1,0 +1,32 @@
+{
+  "name": "angularsite",
+  "version": "1.0.0",
+  "description": "web template",
+  "main": "server.js",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "mongoose": "latest",
+    "method-override": "latest",
+    "node-restful": "latest",
+    "path": "latest",
+    "sendgrid": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmiedema9/angularSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmiedema9/angularSite/issues"
+  },
+  "homepage": "https://github.com/hmiedema9/angularSite#readme"
+}
